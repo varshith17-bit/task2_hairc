@@ -1,0 +1,6 @@
+Confusion Matrix:
+[[45 5]
+ [10 40]]
+Precision: 0.80
+Recall: 0.80
+Accuracy: 0.80
